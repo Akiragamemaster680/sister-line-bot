@@ -1,5 +1,5 @@
 Flask
 line-bot-sdk==2.*
 aiohttp==3.9.3
-openai
+openai==0.28.1
 waitress
